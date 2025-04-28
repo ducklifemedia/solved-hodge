@@ -27,12 +27,13 @@ without requiring the closure of \(\operatorname{Im}(cl)\) or assuming universal
 solved-hodge/
 ├── notebooks/                  # Symbolic experiments (Jupyter)
 │   ├── enriques_convergence.ipynb
+│   ├── degeneration_monodromy.ipynb
 │   ├── hyperkahler_convergence.ipynb
 │   ├── shimura_convergence.ipynb
 │   ├── quintic_CY_unknown_class.ipynb
 │   └── symbolic_operator_definition.ipynb
-├── images/                     # Plots of symbolic convergence
-│   └── *.png
+│   └── images/                     # Plots of symbolic convergence
+│      └── *.png
 ├── paper/
 │   └── main.pdf                # Formal preprint
 ├── requirements.txt           # Dependencies
