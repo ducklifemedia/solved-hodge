@@ -1,10 +1,6 @@
 # solved-hodge
 [![DOI](https://zenodo.org/badge/971752177.svg)](https://doi.org/10.5281/zenodo.15369350)
-.. image:: https://zenodo.org/badge/971752177.svg
-  :target: https://doi.org/10.5281/zenodo.15369350
-<a href="https://doi.org/10.5281/zenodo.15369350"><img src="https://zenodo.org/badge/971752177.svg" alt="DOI"></a>
-https://zenodo.org/badge/971752177.svg
-https://doi.org/10.5281/zenodo.15369350
+
 
 
 > **Formal symbolic resolution of the Rational Hodge Conjecture (type (p,p)) via iterative algebraizing operators**
